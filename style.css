@@ -200,7 +200,7 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
-@media only screen and (max-width: 968px) {
+@media only screen and (max-width: 980px) {
   .container {
     padding: 0 20px;
     max-width: 768px;
@@ -219,7 +219,7 @@ input[type=submit] {
     margin-bottom: 20px;
   }
 }
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 768px) {
   .main-section, .sidebar {
     max-width: 100%;
   }
